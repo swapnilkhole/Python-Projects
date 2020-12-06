@@ -1,0 +1,7 @@
+print("Welcome to rollercoster program")
+height = int(input("Please input your height: "))
+if height > 20:
+    print("go ahead and ride")
+    print("not allowed to ride")
+print("tihs should be printed regardless")
+
